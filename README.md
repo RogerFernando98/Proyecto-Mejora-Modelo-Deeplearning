@@ -3,6 +3,7 @@ El objetivo del proyecto es entrenar y optimizar modelos de redes neuronales par
 aumento de datos y transferencia de aprendizaje.
 
 Estructura del Proyecto:
+
 1.-Modelo Original.ipynb
 Modelo base sin optimizaciones adicionales. Punto de partida para las comparaciones posteriores.
 
